@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StudentDemo</string>
+    <string name="str_toast">Toast</string>
+    <string name="str_count">Count</string>
+    <string name="str_toast_message">Hello World!</string>
+</resources>
